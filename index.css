@@ -1,0 +1,11 @@
+html,body{ 
+    height:100%;}
+
+.main_bg{
+    max-width: 100%;
+    height: auto;
+    background-image: url(sample_1.jpg);/*背景に指定*/
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+}

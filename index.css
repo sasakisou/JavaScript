@@ -1,11 +1,11 @@
-html,body{ 
-    height:100%;}
-
+/* 背景画像の読み込み */
 .main_bg{
-    max-width: 100%;
-    height: auto;
-    background-image: url(sample_1.jpg);/*背景に指定*/
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: center;
+    position: relative;
 }
+
+.menew{
+    position: absolute;
+    100px 100px;
+}
+
+
